@@ -1,0 +1,13 @@
+package com.cross;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CrossWebsiteApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CrossWebsiteApplication.class, args);
+	}
+
+}
