@@ -14,6 +14,6 @@ public class UserController {
 
     @GetMapping
     public List<String> getUsers() {
-        return List.of("Sachin", "Rahul", "Anjali");
+        return List.of("Sachin", "Rahul", "Akshay ");
     }
 }
